@@ -12,7 +12,6 @@ const {
   lineHeight,
   length,
   spacing,
-  columns,
   breakpoint,
 } = CoreTokens;
 
@@ -82,11 +81,6 @@ const SemanticTokens = {
       mobile: breakpoint.sm,
       tablet: breakpoint.md,
       desktop: breakpoint.lg,
-    },
-    columns: {
-      mobile: columns.sm,
-      tablet: columns.md,
-      desktop: columns.lg,
     },
   },
   overlay: {
