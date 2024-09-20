@@ -176,21 +176,6 @@ const CoreTokens = {
     900: 72,
     1000: 80,
   },
-  padding: {
-    none: 0,
-    "4xs": 2,
-    "3xs": 4,
-    "2xs": 8,
-    xs: 12,
-    sm: 16,
-    md: 24,
-    lg: 32,
-  },
-  columns: {
-    sm: "repeat(4, 1fr)",
-    md: "repeat(8, 1fr)",
-    lg: "repeat(12, 1fr)",
-  },
   breakpoint: {
     sm: 767,
     md: 1023,
